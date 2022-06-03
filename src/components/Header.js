@@ -1,5 +1,5 @@
-import React from "react"
-import kenny from '/Users/kendrickizaguirre_1/kendricks-portfolio/src/components/kenny.jpg';
+import React from "react";
+import kenny from '../components/kenny.jpg';
 
 
 export default function Header () {
