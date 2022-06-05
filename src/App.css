@@ -11,7 +11,7 @@ html, body {
   display: flex;
   flex-direction: column;
   font-size: calc(10px + 2vmin);
-  background-color: aquamarine;
+  background-color: rgb(51, 75, 153);
 
 }
 .my-name {
