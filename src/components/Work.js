@@ -1,5 +1,5 @@
 import React from 'react'
-import BusinessCard from "/Users/kendrickizaguirre_1/kendricks-portfolio/src/components/BusinessCard.jpg"
+import BusinessCard from "/Users/kendrickizaguirre_1/kendricks-portfolio/src/BusinessCard.jpg"
 import pizza from "/Users/kendrickizaguirre_1/kendricks-portfolio/src/components/pizza.jpg"
 import madstat2 from "/Users/kendrickizaguirre_1/kendricks-portfolio/src/components/madstat2.jpg"
 
