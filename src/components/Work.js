@@ -1,7 +1,7 @@
 import React from 'react'
-import BusinessCard from "/Users/kendrickizaguirre_1/kendricks-portfolio/src/BusinessCard.jpg"
-import pizza from "/Users/kendrickizaguirre_1/kendricks-portfolio/src/components/pizza.jpg"
-import madstat2 from "/Users/kendrickizaguirre_1/kendricks-portfolio/src/components/madstat2.jpg"
+import BusinessCard from "../images/BusinessCard.jpg"
+import pizza from "../images/pizza.jpg"
+import madstat2 from "../images/madstat2.jpg"
 
 
 
