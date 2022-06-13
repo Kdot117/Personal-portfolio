@@ -97,8 +97,10 @@ export default function Work() {
                 Upcoming project analyzing NFL data that is easily consumed.
               </p>
             </p>
+        
           </div>
         </div>
+        
       </div>
     </container>
   );

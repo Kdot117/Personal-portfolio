@@ -20,7 +20,7 @@ export default function About() {
       <hr className="hr"></hr>
       <p className="summary">
         Frontend Developer building web applications using React. I build
-        websites from scratch using BootJavaScript, HTML, and CSS. My focus is
+        websites from scratch using Bootstrap, JavaScript, HTML, and CSS. My focus is
         on responsiveness and ease of use. I am a life-long learner. Technoloy
         is my passion, and I regularly seek software development courses and
         read about new development technologies.
